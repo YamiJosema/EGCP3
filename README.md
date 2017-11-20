@@ -9,7 +9,6 @@ http://localhost:8080/hello-java-0.1.0/greeting
 Con el parámetro name se puede indicar el nombre de a quien saluda:
 http://localhost:8080/hello-java-0.1.0/greeting?name=egc
 
-LOG
 commit d71a0712344da565c6d3622bf2dc122092ea5d21 (HEAD -> master, origin/master, origin/addBye, addBye)
 Author: YamiJosema <32712234+YamiJosema@users.noreply.github.com>
 Date:   Mon Nov 20 09:07:32 2017 +0100
